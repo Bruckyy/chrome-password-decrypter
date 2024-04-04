@@ -1,4 +1,3 @@
-#Full Credits to LimerBoy
 import os
 import json
 import base64
